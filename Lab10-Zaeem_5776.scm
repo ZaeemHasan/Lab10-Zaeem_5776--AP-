@@ -50,6 +50,6 @@
 
 (define GEQ 
 	(lambda(m n)
-		(LEQ m n)
+		(LEQ n m)
 	)
 )
